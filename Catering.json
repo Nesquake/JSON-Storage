@@ -17,7 +17,7 @@
   	{
     	"id": 3,
     	"title": "Dessert Selection",
-    	"imgUrl": "https://Nesquake.github.io/JSON-Storage/images/Dessert.jpg",
+    	"imgUrl": "https://Nesquake.github.io/JSON-Storage/images/dessert.jpg",
       "description": "A variety of delicious desserts, including cakes, pastries, and other indulgent sweets.",
       "types": ["Classic Cakes & Tarts","Mousse & Pudding Cups","Chocolate & Fruit-Based Desserts"]
     },
