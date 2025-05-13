@@ -10,7 +10,7 @@
           "Glazed Pastries",
           "Filled Cookies"
       ]
-    }
+    },
   	{
     	"id": 2,
     	"title": "Premium Petit Fours",
@@ -21,7 +21,7 @@
           "Decorated Macarons",
           "Gormet Cream-Filled Pastries"
       ]
-    }
+    },
   	{
     	"id": 3,
     	"title": "Dessert Selection",
@@ -32,7 +32,7 @@
           "Mousse & Pudding Cups",
           "Chocolate & Fruit-Based Desserts"
       ]
-    }
+    },
   	{
     	"id": 4,
     	"title": "Simple Hors D'oeurves",
@@ -43,7 +43,7 @@
           "Skewered Bites",
           "Stuffed Vegetables"
       ]
-    }
+    },
   	{
     	"id": 5,
     	"title": "Premium Hors D'oeurves",
