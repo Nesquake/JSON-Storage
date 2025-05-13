@@ -4,7 +4,7 @@
     	"id": 1,
     	"title": "Simple Petit Fours",
     	"imgUrl": "https://Nesquake.github.io/JSON-Storage/images/simple-petit-fours.jpg",
-      "description": "A selection of bite-sized sweet treats with classic flavours and elegant presentation."
+      "description": "A selection of bite-sized sweet treats with classic flavours and elegant presentation.",
       "types": [
           "Mini Sponge Cakes",
           "Glazed Pastries",
@@ -15,7 +15,7 @@
     	"id": 2,
     	"title": "Premium Petit Fours",
     	"imgUrl": "https://Nesquake.github.io/JSON-Storage/images/premium-petit-fours.jpg",
-      "description": "A refined assortment of gourmet mini desserts, crafted with high-quality ingredients and intricate designs."
+      "description": "A refined assortment of gourmet mini desserts, crafted with high-quality ingredients and intricate designs.",
       "types": [
           "Layered Pastries",
           "Decorated Macarons",
@@ -26,7 +26,7 @@
     	"id": 3,
     	"title": "Dessert Selection",
     	"imgUrl": "https://Nesquake.github.io/JSON-Storage/images/Dessert.jpg",
-      "description": "A variety of delicious desserts, including cakes, pastries, and other indulgent sweets."
+      "description": "A variety of delicious desserts, including cakes, pastries, and other indulgent sweets.",
       "types": [
           "Classic Cakes & Tarts",
           "Mousse & Pudding Cups",
@@ -37,7 +37,7 @@
     	"id": 4,
     	"title": "Simple Hors D'oeurves",
     	"imgUrl": "https://Nesquake.github.io/JSON-Storage/images/simple-hors-doeuvres.jpg",
-      "description": "A range of light appetizers featuring classic flavours and simple yet tasty ingredients."
+      "description": "A range of light appetizers featuring classic flavours and simple yet tasty ingredients.",
       "types": [
           "Mini Sandwiches",
           "Skewered Bites",
@@ -48,7 +48,7 @@
     	"id": 5,
     	"title": "Premium Hors D'oeurves",
     	"imgUrl": "https://Nesquake.github.io/JSON-Storage/images/premium-hors-doeuvres.jpg",
-      "description": "A sophisticated selection of gourmet appetizers made with premium ingredients and expert craftsmanship."
+      "description": "A sophisticated selection of gourmet appetizers made with premium ingredients and expert craftsmanship.",
       "types": [
           "Gourmet Crostini",
           "Elegant Tartlets",
