@@ -1,0 +1,59 @@
+{
+  "CateringMenu": [
+  	{
+    	"id": 1,
+    	"title": "?",
+    	"imgUrl": "https://Nesquake.github.io/JSON-Storage/images",
+      "description": "?"
+      "types": [
+          "?",
+          "?",
+          "?",
+      ]
+    }
+  	{
+    	"id": 2,
+    	"title": "?",
+    	"imgUrl": "https://Nesquake.github.io/JSON-Storage/images",
+      "description": "?"
+      "types": [
+          "?",
+          "?",
+          "?",
+      ]
+    }
+  	{
+    	"id": 3,
+    	"title": "?",
+    	"imgUrl": "https://Nesquake.github.io/JSON-Storage/images",
+      "description": "?"
+      "types": [
+          "?",
+          "?",
+          "?",
+      ]
+    }
+  	{
+    	"id": 4,
+    	"title": "?",
+    	"imgUrl": "https://Nesquake.github.io/JSON-Storage/images",
+      "description": "?"
+      "types": [
+          "?",
+          "?",
+          "?",
+      ]
+    }
+  	{
+    	"id": 5,
+    	"title": "?",
+    	"imgUrl": "https://Nesquake.github.io/JSON-Storage/images",
+      "description": "?"
+      "types": [
+          "?",
+          "?",
+          "?",
+      ]
+    }
+  ]
+}
